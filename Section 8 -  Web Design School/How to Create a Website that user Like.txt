@@ -1,0 +1,59 @@
+=> How to create a website that users like?
+- Color Theory
+- Typology
+- User Interface(UI) Design
+- User Experience(UX) Design
+
+*****************************************************************************************************************************
+
+=> Color Theory
+
+-> Moods 
+- Red    - Love, Energy, Intensity.
+- Yellow - Joy, Intellect, Attention.
+- Green  - Freshness, Safety, Growth. 
+- Blue   - Stability, Trust, Serenity.
+- Purple - Royality, Wealth, Femininity.
+
+-> Analogous Colors - Two Color that are very close to each other - Very Harmonius
+-> Complementary Colors - Two Colors that are opposite to each other - Make things Standout(pop out).
+
+-> https://color.adobe.com/create/color-wheel
+-> https://colorhunt.co/
+*****************************************************************************************************************************
+
+=> Typology
+
+-> Large Family
+- Serif - serious, authoritative, older. - eg:Heading
+- sans-Serif - friendly, approachable, novel, contemporary. - eg:body text
+
+-> use similar font with same mood, and use different family as heading and body.
+
+*****************************************************************************************************************************
+
+=> User Interface (UI) Design
+
+1. Hierarchy - eg: colors
+2. Layout - eg: 40 - 60 characters per line is very easy to read.
+3. Alignment - Reduce the number of alignment points.
+4. White Space - use more white space to make your design standout.
+5. Audience - Think about who the audiance before design, design for audiance.
+
+****************************************************************************************************************************
+
+=> User Experience(UX) Design
+
+1. Simplicity - make it simple to use.
+2. Consistency - make the functionality consistent.
+3. Reading Patterns - how human eye track a website and which part the look at at when they are browsing(eg: F-pattern, Z-pattern).
+4. All Platform Design - Work in defferent platform(like desktop, phone etc).
+5. Don't use Power for Evil.
+
+****************************************************************************************************************************
+
+=> design resourse
+1. 100 Day design Challenge - https://www.dailyui.co/
+2. Site to upload design form 100 day design challenge - https://dribbble.com/
+2. Design Websites - https://www.canva.com/
+3. collected designs - https://collectui.com/
